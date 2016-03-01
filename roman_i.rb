@@ -54,12 +54,12 @@ puts "Insert digits (1-3999): "
 
 		
 			
-	puts roman = " #{roman}#{p_roman}" 
+	roman = " #{roman}#{p_roman}" 
 			 
 	end	
 
 
-
+	puts roman
 
 
 		
